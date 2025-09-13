@@ -21,5 +21,8 @@ The main goal is to build a predictive model and compare the performance between
 ## 🎯 Goal
 To analyze the effectiveness of different ML models in stock price prediction and gain insights into model performance for financial forecasting.  
 
+## Link To Access The Data
+https://drive.google.com/drive/folders/1FPVNwx5CSEGZ3hqmmln0O0PICSB83WQS?usp=sharing
+
 ---
 ✨ This project is part of my portfolio in Data Science and Machine Learning.
